@@ -11,7 +11,7 @@
     </parent>
 
     <groupId>io.tbud</groupId>
-    <artifactId>spring-boot-starter-dubbo</artifactId>
+    <artifactId>spring-boot-starter-dubbo-tbud</artifactId>
     <packaging>jar</packaging>
     <version>1.0.4-SNAPSHOT</version>
 
